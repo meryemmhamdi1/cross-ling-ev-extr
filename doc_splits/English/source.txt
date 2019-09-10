@@ -1,0 +1,1 @@
+This split is the same split one as used in JMEE: https://github.com/lx865712528/EMNLP2018-JMEE/tree/master/qi_filelist
